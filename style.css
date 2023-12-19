@@ -1,0 +1,116 @@
+
+
+body {
+    background-color: bisque;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.navBar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-evenly;
+    background-color: rgb(243, 127, 243);
+    border: solid black;
+}
+
+#Skills {
+    background-color: plum;
+    border-radius: 20px;
+    width: 75px;
+    height: 5;
+    padding: 10px;
+    border: solid black;
+}
+
+#Projects {
+    background-color: plum;
+    border-radius: 20px;
+    width: 50px;
+    height: 5;
+    padding: 10px;
+    border: solid black;
+}
+
+#About {
+    background-color: plum;
+    border-radius: 20px;
+    width: 35px;
+    height: 5;
+    padding: 10px;
+    border: solid black;
+}
+
+#Contacts {
+    background-color: plum;
+    border-radius: 20px;
+    width: 56px;
+    height: 5;
+    padding: 10px;
+    border: solid black;
+}
+
+.Titulo {
+    background-image: url(./Downloads/Free\ Vector\ _\ Linear\ vintage\ vaporwave\ background\ _\ Powerpoint\ background\ design\,\ Cute\ desktop\ wallpaper\,\ Vaporwave.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100px;
+    padding: 42px 0;
+    border: solid black;
+}
+
+h1, h2 {
+    color: #CD5C5C;
+    text-align: center;
+    font-family: verdana;
+}
+
+.Hardskills {
+    background-color: palevioletred;
+    width: 100%;
+    height: 200px;
+    border: solid black;
+    text-align: center;
+}
+
+.Hardskills img {
+    margin-right: 3%;
+}
+
+.Atividades {
+    background-color: purple;
+    width: 100%;
+    height: 200px;
+    border: solid black;
+    text-align: center;
+}
+
+.Atividades img {
+    margin-right: 3%;
+}
+
+.Bio {
+    background-color: pink;
+    width: 100%;
+    height: 150px;
+    border: solid black;
+    text-align: center;
+}
+
+.Redes {
+    background-color: darkslategrey;
+    width: 100%;
+    height: 200px;
+    border: solid black;
+    text-align: center;
+}
+
+.Redes img {
+    margin-right: 3%;
+}
